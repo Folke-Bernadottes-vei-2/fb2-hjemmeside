@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(g){this.t={};this.tick=function(h,k,f){this.t[h]=[void 0!=f?f:(new Date).getTime(),k];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(m){}};this.tick("start",null,g)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var l=0<d?new e(d):new e;window.jstiming={Timer:e,load:l};if(a){var b=a.navigationStart;0<b&&d>=b&&(window.jstiming.srt=d-b)}if(a){var c=window.jstiming.load;0<b&&d>=b&&(c.tick("_wtsrt",void 0,b),c.tick("wtsrt_","_wtsrt",
+d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/8ae274/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/a/fb2.no/sameiet/nyttig-informasjon","deleted":false,"title":"Nyttig informasjon","dir":"ltr"},{"path":"/a/fb2.no/sameiet/nyttig-informasjon/egenkontroll","deleted":false,"title":"Egenkontroll","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/8ae274/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":true,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://1013247088-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"Sameiet FB2","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"moreMobileStyleImprovements":null,"subscriptionDataMigrationInProgress":null,"plusBadge":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/a/fb2.no/sameiet/nyttig-informasjon/egenkontroll\u0026service\u003djotspot","analyticsAccountId":"UA-44703456-2","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/8ae274/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/8ae274/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/8ae274/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/8ae274/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/8ae274/system/app/css/trogedit.css","/a/fb2.no/sameiet/_/rsrc/1579769077000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/8ae274/system/app/css/codeeditor.css","/a/fb2.no/sameiet/_/rsrc/1579769077000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"fb2.no","baseUri":"/a/fb2.no/sameiet","name":"sameiet","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":"/nyttig-informasjon","parentWuid":"wuid:gx:1fbdc29e76d7b1fc","siteLocale":"no","timeZone":"America/Los_Angeles","type":"text","title":"Egenkontroll","locale":"en","wuid":"wuid:gx:3180af9f2c1a02b0","revision":4,"path":"/nyttig-informasjon/egenkontroll","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"egenkontroll","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/a/fb2.no/sameiet/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["for ett minutt siden","for __duration__ minutter siden","for \u00e9n time siden","for __duration__ timer siden"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="Egenkontroll - Sameiet FB2" />
+<meta itemprop="name" content="Egenkontroll - Sameiet FB2" />
+<meta property="og:title" content="Egenkontroll - Sameiet FB2" />
+<meta name="description" content="Sameiet Folke Bernadottesvei 2" />
+<meta itemprop="description" content="Sameiet Folke Bernadottesvei 2" />
+<meta id="meta-tag-description" property="og:description" content="Sameiet Folke Bernadottesvei 2" />
+<style type="text/css">
+      
+      @font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Code Pro Italic'), local('SourceCodePro-It'), url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Source Code Pro Bold Italic'), local('SourceCodePro-BoldIt'), url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNvsdco5mg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Code Pro Regular'), local('SourceCodePro-Regular'), url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevT.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Code Pro Bold'), local('SourceCodePro-Bold'), url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-Italic'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold Italic'), local('SourceSansPro-BoldItalic'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf) format('truetype');
+}
+
+    
+    </style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/8ae274/system/app/themes/terrawater/standard-css-terrawater-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/a/fb2.no/sameiet/_/rsrc/1579769077000/system/app/css/overlay.css?cb=terrawater15a150goog-ws-leftnone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/a/fb2.no/sameiet/_/rsrc/1579769077000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/a/fb2.no/sameiet/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Egenkontroll - Sameiet FB2</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" no            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><h2><a href="https://sites.google.com/a/fb2.no/sameiet/" dir="ltr" id="sites-chrome-userheader-title">Sameiet FB2</a></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/a/fb2.no/sameiet/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Søk på dette nettstedet" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Søk på dette nettstedet</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first "><div dir="ltr" style="padding-left: 19px;"><a href="/a/fb2.no/sameiet/home" jotId="wuid:gx:407ea11af797de72" class="sites-navigation-link topLevel">Forside</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/fb2.no/sameiet/akutt" jotId="wuid:gx:6c7d4c62f21bff83" class="sites-navigation-link topLevel">Akutt</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/fb2.no/sameiet/kontakt" jotId="wuid:gx:5708cb2991792771" class="sites-navigation-link topLevel">Kontakt</a></div></li><li class="topLevel parent " wuid="gx:1fbdc29e76d7b1fc"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/fb2.no/sameiet/nyttig-informasjon" jotId="wuid:gx:1fbdc29e76d7b1fc" class="sites-navigation-link topLevel">Nyttig informasjon</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/ansvar" jotId="wuid:gx:5c14df0c8ca923ed" class="sites-navigation-link">Ansvar</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/balkonger" jotId="wuid:gx:198b6d3ef9990287" class="sites-navigation-link">Balkonger</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/bolignummer" jotId="wuid:gx:1bf350191c7c4d97" class="sites-navigation-link">Bolignummer</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/brannvern" jotId="wuid:gx:7d3c82d391e726b9" class="sites-navigation-link">Brannvern</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/dugnad" jotId="wuid:gx:252c96c2319c01a7" class="sites-navigation-link">Dugnad</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/dyrehold" jotId="wuid:gx:3ff6806a75b79c21" class="sites-navigation-link">Dyrehold</a></div></li><li class=""><div class="current-bg" jotId="wuid:gx:3180af9f2c1a02b0" dir="ltr" style="padding-left: 38px;">Egenkontroll</div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/eierregister" jotId="wuid:gx:72c09d2407c38da6" class="sites-navigation-link">Eierregister</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/eierskifte" jotId="wuid:gx:46436bf0c554c73a" class="sites-navigation-link">Eierskifte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/elektrisk-anlegg" jotId="wuid:gx:798b567200cb8c9d" class="sites-navigation-link">Elektrisk anlegg</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/energimerking" jotId="wuid:gx:1680047cdbe41996" class="sites-navigation-link">Energimerking</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/erstatningsansvar" jotId="wuid:gx:530433a530837bfc" class="sites-navigation-link">Erstatningsansvar</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/fellesarealer" jotId="wuid:gx:493926b93b6bf33e" class="sites-navigation-link">Fellesarealer</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/forebygge-lekasjer" jotId="wuid:gx:7bbe15aaeb0590ee" class="sites-navigation-link">Forebygge lekasjer</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/gass-og-propan" jotId="wuid:gx:46248a7b990eeca1" class="sites-navigation-link">Gass og propan</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/heis" jotId="wuid:gx:39fa717dd993fd76" class="sites-navigation-link">Heis</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/husordensregler" jotId="wuid:gx:6cc6cd2a60620d1a" class="sites-navigation-link">Husordensregler</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/haandverkere" jotId="wuid:gx:1c6d50b2de026654" class="sites-navigation-link">Håndverkere</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/kjellerboder" jotId="wuid:gx:3b121d55a9b9bba7" class="sites-navigation-link">Kjellerboder</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/lover" jotId="wuid:gx:d2a8d2fa8bbdacd" class="sites-navigation-link">Lover</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/navneseddel" jotId="wuid:gx:69725abce7386054" class="sites-navigation-link">Navneseddel</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/noekler" jotId="wuid:gx:402889ad07883989" class="sites-navigation-link">Nøkler</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/oppussing" jotId="wuid:gx:1d92cc41f81e5d81" class="sites-navigation-link">Oppussing og vedlikehold</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/parkering" jotId="wuid:gx:6b41969ff72c49e" class="sites-navigation-link">Parkering og bodleie</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/postkasser" jotId="wuid:gx:3b6d80a5e7ef9518" class="sites-navigation-link">Postkasser</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/regelbrudd" jotId="wuid:gx:1049b93abd4fe8d1" class="sites-navigation-link">Regelbrudd</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/ro" jotId="wuid:gx:1aafafa3088dd1f" class="sites-navigation-link">Ro</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/skilt" jotId="wuid:gx:3da015134713f194" class="sites-navigation-link">Skilt</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/sykkel" jotId="wuid:gx:42ce7007e6486d7c" class="sites-navigation-link">Sykkel</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/soeppel" jotId="wuid:gx:79e771e987348b87" class="sites-navigation-link">Søppel</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/tv-og-internett" jotId="wuid:gx:2853f8d0c15ccd6d" class="sites-navigation-link">TV og Internett</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/utleie" jotId="wuid:gx:492336ded4e4a3b4" class="sites-navigation-link">Utleie</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/vaskeri" jotId="wuid:gx:7b7127fdb0ed431a" class="sites-navigation-link">Vaskeri</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/nyttig-informasjon/vedtekter" jotId="wuid:gx:6b95eecd5d631ffb" class="sites-navigation-link">Vedtekter</a></div></li></ul></li><li class="topLevel parent " wuid="gx:28f4bc488cec0874"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/fb2.no/sameiet/om-sameiet" jotId="wuid:gx:28f4bc488cec0874" class="sites-navigation-link topLevel">Om sameiet</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/om-sameiet/for-leverandoerer" jotId="wuid:gx:bb156b5d89e60f2" class="sites-navigation-link">For leverandører</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/om-sameiet/generell-info" jotId="wuid:gx:141c250c02aff860" class="sites-navigation-link">Generell info</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/om-sameiet/seksjonene" jotId="wuid:gx:36479a70f95090b2" class="sites-navigation-link">Seksjonene</a></div></li></ul></li><li class="topLevel parent " wuid="gx:7793f591b234eba6"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/fb2.no/sameiet/siste-nytt" jotId="wuid:gx:7793f591b234eba6" class="sites-navigation-link topLevel">Siste nytt</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1305aarsmoete" jotId="wuid:gx:6734763584ad5582" class="sites-navigation-link">1305 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1306-juni" jotId="wuid:gx:6ac9b0cc97f8f703" class="sites-navigation-link">1306 Juni</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1307-juli" jotId="wuid:gx:795a59b3ba4001a8" class="sites-navigation-link">1307 Juli</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1308-august" jotId="wuid:gx:2368a14b419454c1" class="sites-navigation-link">1308 August</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1309fb4" jotId="wuid:gx:610e1a3aaf66fc56" class="sites-navigation-link">1309 FB4</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1309sameiermoete" jotId="wuid:gx:468d8a741eba27f7" class="sites-navigation-link">1309 Sameiermøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1309-september" jotId="wuid:gx:165cb9e6689051aa" class="sites-navigation-link">1309 September</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1310oktober" jotId="wuid:gx:1b9f3955d1441b92" class="sites-navigation-link">1310 Oktober</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1311nhfoslo" jotId="wuid:gx:284c4a0fa04f199c" class="sites-navigation-link">1311 NHF Oslo</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1311november" jotId="wuid:gx:14e0d513fd3b69cb" class="sites-navigation-link">1311 November</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1312desember" jotId="wuid:gx:6a8d6d3a5062f243" class="sites-navigation-link">1312 Desember</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1402februar" jotId="wuid:gx:44b68ae25baea42b" class="sites-navigation-link">1402 Februar</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1404aarsmoete" jotId="wuid:gx:771564d4a9c587a8" class="sites-navigation-link">1404 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1405mai" jotId="wuid:gx:c2a4792b8e46000" class="sites-navigation-link">1405 Mai</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1502februar" jotId="wuid:gx:7d60a9a8b46afcbf" class="sites-navigation-link">1502 Februar</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1504aarsmoete2015" jotId="wuid:gx:16920a9c30c9c6b8" class="sites-navigation-link">1504 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/ekstraordinaertsameiemoete28september2015" jotId="wuid:gx:2cc75aff661d5193" class="sites-navigation-link">1509 Sameiermøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1604april" jotId="wuid:gx:65de12a5d852cbbe" class="sites-navigation-link">1604 April</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1604aarsmoete" jotId="wuid:gx:111d499999617b0b" class="sites-navigation-link">1604 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1605mai" jotId="wuid:gx:337d212f32f45369" class="sites-navigation-link">1605 Mai</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1609sameiermoete" jotId="wuid:gx:613dfb795aafdfff" class="sites-navigation-link">1609 Sameiermøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1610oktober" jotId="wuid:gx:154896db26cf05ef" class="sites-navigation-link">1610 Oktober</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1703aarsmoete" jotId="wuid:gx:611ec0c7a1de5d1a" class="sites-navigation-link">1703 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1804aarsmoete" jotId="wuid:gx:6b39cfb770a7e383" class="sites-navigation-link">1804 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1904aarsmoete" jotId="wuid:gx:33c1544ddc944159" class="sites-navigation-link">1904 Årsmøte</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/siste-nytt/1910sameiemoete" jotId="wuid:gx:5c75b549cc64af23" class="sites-navigation-link">1910 Sameiemøte</a></div></li></ul></li><li class="topLevel parent " wuid="gx:5089674bd278a0f8"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/fb2.no/sameiet/styret" jotId="wuid:gx:5089674bd278a0f8" class="sites-navigation-link topLevel">Styret</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/styret/gjennomfoerte-saker" jotId="wuid:gx:3828606f8ee34ca4" class="sites-navigation-link">Gjennomførte saker</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/styret/inkommende-saker" jotId="wuid:gx:2b5d06b68b0d2ca9" class="sites-navigation-link">Innkommende saker</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/fb2.no/sameiet/styret/aarsmoete" jotId="wuid:gx:6ab9fff3fb463666" class="sites-navigation-link">Årsmøte</a></div></li></ul></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A href="/a/fb2.no/sameiet/nyttig-informasjon" dir="ltr">Nyttig informasjon</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Egenkontroll</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><b>SKJEMA</b></div><div>Skjema for egenkontroll <a href="https://docs.google.com/spreadsheet/ccc?key=0Arts9_xwKfmYdGFXcVpWeXIxZnJyY0otNUU3V2JXQlE&amp;usp=sharing" target="_blank">finner du her</a>. </div><div><br /></div><div><b>EGENKONTROLL AV BRANNVERN, STRØM, VVS m.m.</b></div><div><div><span style="line-height:1.5">Boligsameier er lovpålagt å ha internkontroll og et systematisk HMS-arbeid. En viktig del av dette arbeidet er seksjonseiernes egenkontroll.</span></div><div>Når du fyller ut skjemaet må du sjekke alle opplysningene. Forsikringsselskapet kan kreve erstatning dersom du gir gale opplysninger og det oppstår skader.</div><div><span style="line-height:1.5">Skjemaet skal legge i styrepostkassa, eller <a href="https://sites.google.com/a/fb2.no/sameiet/kontakt">sendes elektronisk</a>.</span></div><div><br /></div><div><b>ANSVAR</b></div><div>Seksjonseier er ansvarlig for vedlikehold av alle punktene som er nevnt i skjemaet, men unntak for soilrørene. Seksjonseier er ansvarlig for vedlikehold av entrédør, vinduer, elektrisk anlegg (fra og med underfordeler i oppgangen), alle rør (unntatt de som går mellom leilighetene) og alt annet som er inne i hver leilighet.</div><div><br /></div><div><b>HYPPIGHET</b></div><div>Det er krav at alle beboere og eiere i sameiet skal gjennomføre årlig egenkontroll. Egenkontrollskjemaet skal fylles ut og <a href="https://sites.google.com/a/fb2.no/sameiet/kontakt">sendes inn til styret</a> en gang i året.</div></div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/a/fb2.no/sameiet/nyttig-informasjon/egenkontroll&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/a/fb2.no/sameiet/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/8ae274/system/js/jot_min_view__no.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Konfigurer s\u00f8kealternativer ...","url":"/a/fb2.no/sameiet/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/a/fb2.no/sameiet/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "no");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+        JOT_insertTranslateCode('en', 'no');
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
