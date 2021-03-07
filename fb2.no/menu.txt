@@ -1,0 +1,66 @@
+Hovedside : /
+
+Akutt : akutt/
+
+Kontakt : kontakt/
+
+Styret : styret/
+
+Nyheter : nyheter/
+
+Nyttig informasjon : nyttig/
+	Ansvar : nyttig/ansvar/
+	Balkonger : nyttig/balkonger/
+	Bolignummer:nyttig/bolignummer/
+	Brannvern : nyttig/brannvern/
+	Dugnad : nyttig/dugnad/
+	Dyrehold : nyttig/dyrehold/
+	Egenkontroll : nyttig/egenkontroll/
+	Eierregister : nyttig/eierregister/
+	Eierskifte : nyttig/eierskifte/
+	Elektrisk anlegg : nyttig/elektrisk-anlegg/
+	Energimerking : nyttig/energimerking/
+	Erstatningsansvar : nyttig/erstatningsansvar/
+	Fellesarealer : nyttig/fellesarealer/
+	Forebygge lekasjer : nyttig/forebygge-lekkasjer/
+	Gass og propan : nyttig/gass-og-propan/
+	Heis : nyttig/heis/
+	Husordensregler : nyttig/husordensregler/
+	Håndverkere : nyttig/handverkere/
+	Kjellerboder : nyttig/kjellerboder/
+	Lover : nyttig/lover/
+	Navneseddel : nyttig/navneseddel/
+	Nøkler : nyttig/nokler/
+	Oppussing og vedlikehold : nyttig/oppussing/
+	Parkering og bodleie : nyttig/parkering/
+	Postkasser : nyttig/postkasser/
+	Regelbrudd : nyttig/regelbrudd/
+	Ro : nyttig/ro/
+	Skilt : nyttig/skilt/
+	Sykkel : nyttig/sykkel/
+	Søppel : nyttig/soppel/
+	TV og Internett : nyttig/tv-og-internett/
+	Utleie : nyttig/utleie/
+	Vaskeri : nyttig/vaskeri/
+	Vedtekter : nyttig/vedtekter/
+
+Om sameiet : om-sameiet/
+	For leverandører : om-sameiet/for-leverandorer/
+	Generell info : om-sameiet/generell-info/
+	Seksjonene : om-sameiet/seksjonene/
+
+Årsmøter : arsmoter/
+	2021 april &#xb7; Årsmøte : arsmoter/2021-04-arsmote/
+	2020 april &#xb7; Årsmøte : arsmoter/2020-04-arsmote/
+	2019 oktober &#xb7; Sameiemøte : arsmoter/2019-10-sameiemote/
+	2019 april &#xb7; Årsmøte : arsmoter/2019-04-arsmote/
+	2018 juli &#xb7; Sameiemøte : /arsmoter/2018-07-sameiemote/
+	2018 april &#xb7; Årsmøte : /arsmoter/2018-04-arsmote/
+	2017 april &#xb7; Årsmøte : /arsmoter/2017-04-arsmote/
+	2016 september &#xb7; Sameiemøte : /arsmoter/2016-09-sameiemote/
+	2016 april &#xb7; Årsmøte : /arsmoter/2016-04-arsmote/
+	2015 september &#xb7; Sameiemøte : /arsmoter/2015-09-sameiemote/
+	2015 april &#xb7; Årsmøte : /arsmoter/2015-04-arsmote/
+	2014 april &#xb7; Årsmøte : /arsmoter/2014-04-arsmote/
+	2013 september &#xb7; Sameiemøte : /arsmoter/2013-09-sameiemote/
+	2013 mai &#xb7; Årsmøte : /arsmoter/2013-05-arsmote/
