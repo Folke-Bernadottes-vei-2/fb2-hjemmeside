@@ -64,3 +64,5 @@ Om sameiet : om-sameiet/
 	2014 april &#xb7; Årsmøte : /arsmoter/2014-04-arsmote/
 	2013 september &#xb7; Sameiemøte : /arsmoter/2013-09-sameiemote/
 	2013 mai &#xb7; Årsmøte : /arsmoter/2013-05-arsmote/
+
+Om nettstedet : om-nettstedet/
