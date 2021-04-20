@@ -15,7 +15,9 @@ Ved omfattende oppussing som el-, VVS-arbeid og betongsaging skal [styret kontak
 
 Alt arbeid på bærevegger, baderom og andre vesentlige endringer er søknadspliktig til [Plan- og bygningsetaten](https://www.oslo.kommune.no/plan-bygg-og-eiendom/). Seksjonseier er ansvarlig for å sende søknad og meldinger i samsvar med [Plan- og bygningsloven](https://lovdata.no/dokument/NL/lov/2008-06-27-71) samt andre lover og forskrifter. Seksjonseier er ansvarlig for at alt arbeid blir utført i henhold til teknisk forskrift. D.v.s. at alle brannkrav og krav til vannskadesikkerhet må følges.
 
-Ved større og langvarige oppussingsarbeider, samt stenging av vann skal alle beboere informeres i god tid før arbeidet begynner.
+Ved større og langvarige oppussingsarbeider, samt stenging av vann, skal alle beboere informeres i god tid før arbeidet begynner.
+
+Ved særlig støyende arbeid, som for eksempel pigging av badegulv og omfattende betongborearbeider, skal beboerne ha beskjed minst 2 dager i forveien slik at de kan sørge for alternativt arbeidssted / sovested.
 
 Entrédør
 --------
