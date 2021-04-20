@@ -7,7 +7,7 @@ Det vil også være mulig å delta på møtet over telefon.
 
 Alle detaljer om hvordan man kommer seg inn i møtet finnes i innkallingen (se under), og i epost som er sendt ut til alle sameierne.
 
-I tillegg vil det legges ut direkte-lenker på denne siden kort tid før møtet starter. (Grunnen til at vi venter med dette, er at vi ikke vil at søkemotorer skal fange opp dette for langt i forveien. Det kan nemlig føre til uønskede gjester i møtet.)
+Det er også mulig å bli med i møtet ved å klikke på [denne lenken](https://zoom.us/j/97726842709?pwd=a1liQ05xdEJWOUZLbzBZS01QdHhPdz09). Dette vil åpne møtet i appen, hvis du har installert denne. Vi anbefaler å installere app-en først, for den virker bedre en zoom i nettleseren. Du trenger ikke en konto for å bli med i møtet.
 
 Dokumenter for nedlasting:
 
