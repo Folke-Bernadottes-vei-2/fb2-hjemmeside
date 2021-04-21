@@ -74,16 +74,5 @@ Hvordan endrer man sidene?
 --------------------------
 
 En endring av sidene skjer i flere steg, der noen av disse kan gjøres på én gang av administratorene av siden.
-Administratorene av siden vil innledningsvis være meg selv (avtroppende styreleder Pål) og styret.
-Det er selvsagt mulig å endre kilden for sidene, når systemet er "kjørt inn" og et nytt styre er klart for å overta.
 
-Vi tenker oss at Amalie ønsker å gjøre en endring på siden, og Berit er en administrator av siden.
-Endringen vil da skje på denne måten:
-
-* Amalie lager en kopi (*fork* på engelsk) av [prosjektet på GitLab](https://gitlab.com/hermunn/fb2-hjemmeside/). Amalie trenger en konto på GitLab, men det er gratis, og man kan bruke Google eller Facebook til innlogging.
-* Amalie redigerer sin kopi (*fork*) i GitLab slik at den inneholder endringen, og lager en *Merge Request*. Det er også mulig å gjøre denne redigeringen på egen maskin, for eksempel ved hjelp av Microsoft Visual Studio Code (som også finnes for Linux), som har god støtte for Git og Markdown.
-* Alle som følger med på GitLab-prosjektet, kan nå kommentere på endrings-forslaget.
-* Berit sjekker endringene, og dersom de ser riktig ut, trykker hun på "Merge". Dette vil oppdatere hoved-prosjektet med endringen.
-* Noen, antageligvis Berit eller noen andre i styret, logger inn på PRO ISP og kopierer inn hjemmesiden fra GitLab. Siden er oppdatert!
-
-Dersom Amalie selv er en administrator, kan hun gjøre alle stegene selv, men det er alltid fint å la noen lese over endringer før du setter dem i produksjon.
+Detajer rundt dette har blitt flyttet til [GitHub, der kilden til siden finnes](https://github.com/Folke-Bernadottes-vei-2/fb2-hjemmeside).
