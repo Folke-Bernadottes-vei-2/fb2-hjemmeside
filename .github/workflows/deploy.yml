@@ -2,7 +2,7 @@ name: Deploy to fb2.no
 
 # Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
+  # Triggers the workflow on push for the master branch
   push:
     branches: [ master ]
 
