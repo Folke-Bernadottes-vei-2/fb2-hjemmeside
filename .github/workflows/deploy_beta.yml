@@ -2,10 +2,6 @@ name: Deploy to beta.fb2.no
 
 # Controls when the action will run. 
 on:
-  # Triggers the workflow on pull request events to the master branch
-  pull_request:
-    branches: [ master ]
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
