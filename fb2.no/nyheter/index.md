@@ -1,6 +1,13 @@
 Nyheter og meldinger fra styret
 ===============================
 
+Referat fra årsmøte
+-------------------
+*22. april 2021*
+
+Referatet fra årsmøtet er nå tilgjengelig på [denne siden](/arsmoter/2021-04-arsmote/).
+
+
 Angående oppussing i blokka og klager
 -------------------------------------
 *29. januar 2021*
