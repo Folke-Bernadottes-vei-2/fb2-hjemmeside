@@ -47,22 +47,24 @@ Forsikring
 
 <table>
 <tr><td class="b">Navn:</td><td class="a">If forsikring</td></tr>
-<tr><td class="a">Polisenummer:</td><td class="b">2719751</td></tr>
+<tr><td class="a">Avtalenummer:</td><td class="b">SP403349</td></tr>
 </table>
+
+Kontaktinformasjon finnes på https://www.if.no/bedrift/kundeservice.
 
 Samarbeidspartnere
 ------------------
 
-ISS Skadedyrkontroll / Anticimex
-ISS Snømåking/strøing
-Norsk Brannvern
-Berendsen
-Bakken Renhold
-Kringsjånett
-Mobile Norway (Network Norway)
-OTIS - Heis
-Electrolux - vaskemaskiner og tørketrommel - v/Bjørn Kåsine.
-KABA Møller Undall - dørtelefoner
+- ISS Skadedyrkontroll / Anticimex
+- ISS Snømåking/strøing
+- Norsk Brannvern
+- Berendsen
+- Bakken Renhold
+- Kringsjånett
+- Mobile Norway (Network Norway)
+- OTIS - Heis
+- Electrolux - vaskemaskiner og tørketrommel - v/Bjørn Kåsine.
+- KABA Møller Undall - dørtelefoner
 
 Reklame foran dører og i postkasser med forbehold
 -------------------------------------------------
