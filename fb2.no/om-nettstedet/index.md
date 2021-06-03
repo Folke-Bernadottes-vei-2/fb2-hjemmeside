@@ -67,12 +67,11 @@ Filene til fb2.no ligger på servere eid av [PRO ISP](https://www.proisp.no/), d
 
 Disse filene er imidlertid bare en kopi av originalene, som spores ved hjelp av [Git](https://no.wikipedia.org/wiki/Git).
 Revisjons-kontroll-systemet Git er et populært verktøy for samarbeid i små og store grupper, og egner seg godt for hjemmesiden vår (synes jeg, Pål, avtroppende styreleder).
-Akkurat nå er kilden til hjemmesiden [et GitLab-prosjekt](https://gitlab.com/hermunn/fb2-hjemmeside/), og det er i dette prosjektet vi koordinerer endringer.
-Dette tar oss videre til den viktigste delen av dette dokumentet.
+Akkurat nå er kilden til hjemmesiden [et GitHub-prosjekt](https://github.com/Folke-Bernadottes-vei-2/fb2-hjemmeside), og det er i dette prosjektet vi koordinerer endringer.
 
 Hvordan endrer man sidene?
 --------------------------
 
 En endring av sidene skjer i flere steg, der noen av disse kan gjøres på én gang av administratorene av siden.
 
-Detajer rundt dette har blitt flyttet til [GitHub, der kilden til siden finnes](https://github.com/Folke-Bernadottes-vei-2/fb2-hjemmeside).
+Dette er beskrevet på [prosjekt-siden på GitHub](https://github.com/Folke-Bernadottes-vei-2/fb2-hjemmeside), sammen med resten av kilden, under listen med filer.
