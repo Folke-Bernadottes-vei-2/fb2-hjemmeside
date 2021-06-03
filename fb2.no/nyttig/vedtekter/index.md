@@ -181,15 +181,22 @@ Innkreving av slike midler skjer samtidig med innkalling av á kontobeløp til d
 
 #### §21 Sameiets eierskap av parkeringsplasser i FB4
 
-Sameiet FB2 kan eie opp til fire parkeringsplasser i Folke Bernadottes vei 4. Disse
-plassene kan leies ut til beboere i FB2 og FB4, men beboere i FB2 prioriteres når en
-plass blir ledig.
+Sameiet FB2 kan eie opp til ni parkeringsplasser i Folke Bernadottes vei 4. Disse
+plassene kan leies ut til beboere i FB2 og FB4, men beboere i FB2 har førsteprioritet
+dersom en plass blir ledig.
 
-En sameier kan når som helst kreve å få kjøpe en parkeringsplass i sameiets
-besittelse for 450 000 kroner pluss omkostninger.
+Når en sameier ønsker å selge en parkeringsplass kan denne plassen kun selges til
+andre sameiere i FB2 eller til Sameiet FB2.
 
-Sameiet kan kun erverve slike plasser ved et spesielt vedtak i et ordinært eller
-ekstraordinært sameiemøte.
+Sameiet kan kun erverve slike plasser ved et særskilt vedtak i et ordinært eller
+ekstraordinært sameiermøte.
+
+Det er kun sameiet FB2 ved styret eller eiere av leilighet i FB2 som kan kjøpe
+garasjeplass i kjelleren i FB4 som nå tilhører sameiet FB2 eller beboere i FB2.
+
+Sameiets eventuelle kjøp av parkeringsplasser i FB4 kan kun gjøres når sameiets
+økonomi tillater det. Vurdering og konklusjon på evt. kjøp kan kun besluttes på sameiets
+årsmøte med simpelt flertall.
 
 ### Mislighold og fravikelse
 
