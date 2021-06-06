@@ -34,11 +34,12 @@ jobs:
           SSH_USER: ${{ secrets.SSH_USER }}
           SSH_KEY: ${{ secrets.SSH_KEY }}
           SSH_HOST: ${{ secrets.SSH_HOST }}
+    
+      - run: npm ci
+      - uses: nelonoel/branch-name@v1.0.1
 
       - name: Pull branch
-        run: ssh fb2 'cd fb2-hjemmeside && git fetch && git checkout ${BASE_BRANCH}'
-        env:
-          BASE_BRANCH: ${{ github.ref }}
+        run: ssh fb2 'cd fb2-hjemmeside && git fetch && git checkout ${BRANCH_NAME}'
         
       - name: Publish beta fb2-hjemmeside
         run: ssh fb2 'sh publish_beta.sh'
