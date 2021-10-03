@@ -1,8 +1,6 @@
-Utleie
-======
+# Utleie
 
-Meddelelse til Styret
----------------------
+## Meddelelse til Styret
 
 Meddelelse om utleie skal sendes styret, og utleie av seksjon kan bare skje dersom dette er gjort. Utleier er forpliktet til å utlevere husordensregler og vedtekter til leietaker, samt påse at leietaker retter seg etter disse.
 
@@ -15,13 +13,11 @@ Følgende informasjon skal sendes styret:
 
 Se også [eierregister](/nyttig/eierregister/).
 
-Skilt
------
+## Skilt
 
 Se [informasjon om skilt](/nyttig/skilt/).
 
-Mislighold
-----------
+## Mislighold
 
 Mislighold av vedtekter og husordensregler kan etter advarsler gjøre at salg av leilighet kan pålegges av styret.
 

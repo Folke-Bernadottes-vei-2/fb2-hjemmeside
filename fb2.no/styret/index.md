@@ -1,9 +1,12 @@
 # Styret
 
-Styret kan primært nås på e-post [styret@fb2.no](mailto:styret@fb2.no). Hvis du sender en melding til denne adressen, vil alle i styret motta e-posten. Det betyr at du kan få raskere tilbakemelding enn hvis du sender eposten til bare en av medlemmene.
+<table>
+<tr><td class="b">E-post</td><td class="a">styret@fb2.no</td></tr>
+</table>
 
-Styreleder
-----------
+Styret kan primært nås på e-post [styret@fb2.no](mailto:styret@fb2.no). Hvis du sender en melding til denne adressen vil alle i styret motta e-posten. Det betyr at du kan få raskere tilbakemelding enn hvis du sender e-post til bare én av medlemmene.
+
+## Styreleder
 
 <table>
 <tr><td class="b">Navn</td><td class="a">Sondre Bø Kongsgård (leil. 1008)</td></tr>
@@ -11,8 +14,7 @@ Styreleder
 <tr><td class="b">E-post</td><td class="a">sondre@fb2.no</td></tr>
 </table>
 
-Styremedlemmer
---------------
+## Styremedlemmer
 
 <table>
 <tr><td class="a">Navn</td><td class="b">Amund Sigurdssønn Karlsen (leil. 4006)</td></tr>
@@ -26,8 +28,7 @@ Styremedlemmer
 <tr><td class="b">E-post</td><td class="a">sigrun@fb2.no</td></tr>
 </table>
 
-Varamedlemmer
--------------
+## Varamedlemmer
 
 Pål Hermunn Johansen
 

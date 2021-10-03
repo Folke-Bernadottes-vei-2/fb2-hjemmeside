@@ -1,17 +1,15 @@
-Vedtekter
-=========
+# Vedtekter
 
-Vedtekter for Sameiet Folke Bernadottesvei 2, 0862 Oslo
--------------------------------------------------------
+## Vedtekter for Sameiet Folke Bernadottesvei 2, 0862 Oslo
 
 Vedtatt i medhold av lov om eierseksjoner av 23. mai 1997 nr. 31 i stiftelsesmøte den 23.01.2003
-Endret på sameiemøte 06.05.2010, 12.05.2011 og 01.10.2012 og *(sett inn flere datoer her)*
+Endret og oppdatert på de årlige sameiemøtene.
 
 ### Innledende bestemmelser
 
 #### § 1 Navn
 
-Sameiets navn er:  Sameiet Folke Bernadottes vei 2
+Sameiets navn er: Sameiet Folke Bernadottes vei 2
 
 Sameiet omfatter eiendommen Folke Bernadottes vei 2, gnr. 50, bnr. 296 i Oslo kommune med påstående bygg.
 
@@ -57,7 +55,7 @@ På det ordinære sameiemøtet skal disse sakene behandles:
 
 #### §6 Stemmerettsregler
 
-Sameierne avgir stemme i sameiemøte med én stemme pr seksjon.
+Sameierne avgir stemme i sameiemøte med én stemme per seksjon.
 
 #### §7 Møteledelse og flertallskrav
 

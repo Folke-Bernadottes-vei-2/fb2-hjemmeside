@@ -1,12 +1,10 @@
-#  Gass og propan
+# Gass og propan
 
-Viktig
-------
+## Viktig
 
 Ved bruk av gass og propan er det viktig at en benytter godkjente og sakkyndige leverandører og installatører, og bruker utstyret etter de anvisninger som disse gir.
 
-Propan
-------
+## Propan
 
 Lovlig lagring av propan i leilighet eller bolig er maksimalt 2 x 11 kg. flasker.
 
@@ -15,6 +13,7 @@ Flaskene skal ikke lagres i kjeller, på loft eller i garasjeanlegg.
 I friluft, på terrasse eller veranda, er akseptable lagringssteder.
 
 I bolig kan følgende mengder brannfarlig vare oppbevares uten melding til brannsjefen:
+
 - 55 liter brannfarlig gass (propan) (Husk at beholdere ofte er oppgitt i kg og ikke i liter).
 - 5 liter A- væske (bensin, teknisk sprit).
 - 50 liter B- væske (parafin, white spirit).
@@ -22,12 +21,12 @@ I bolig kan følgende mengder brannfarlig vare oppbevares uten melding til brann
 - Oppbevaring av mengder utover dette skal meldes/søkes til brannsjefen.
 
 ### Beholdere:
+
 Det er viktig at beholdere er tette og tydelig merket. Oppbevaring bør skje i rom med god utlufting. Brannfarlig vare må ikke oppbevares i rom, eller på sted som benyttes som rømningsvei under brann slik som korridorer og trapper.
 
 Brudd på reglene og uforsiktighet i håndteringen av bensin eller gass kan få dramatiske følger. Ved lekkasjer kan selv små gnister fra en lysbryter eller åpen ild forårsake brann eller eksplosjon.
 
-Gassvettreglene
----------------
+## Gassvettreglene
 
 Direktoratet for samfunnssikkerhet og beredskap har sammen med gasselskapene utarbeidet grunnleggende regler for bruk av gass:
 
@@ -48,4 +47,3 @@ Direktoratet for samfunnssikkerhet og beredskap har sammen med gasselskapene uta
 8. Hold alltid apparat og beholder i god stand, men prøv ikke selv å reparere skader eller defekter som oppstår. La propanforhandleren foreta kontroll og eventuell overhaling av apparat og anlegg med jevne mellomrom.
 
 9. Studer monterings- og bruksanvisning nøye før apparat og anlegg tas i bruk. Spør forhandleren dersom det er noe du er i tvil om
-
