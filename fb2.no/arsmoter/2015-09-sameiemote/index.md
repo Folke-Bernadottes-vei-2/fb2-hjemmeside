@@ -1,5 +1,4 @@
-Sameiemøte 14. september 2015
-=============================
+# Sameiemøte 14. september 2015
 
 Det ble holdt et Ekstraordinært sameiemøte den 14. september. Last ned filene under for mer informasjon.
 

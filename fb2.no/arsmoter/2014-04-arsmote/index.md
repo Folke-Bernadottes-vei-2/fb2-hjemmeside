@@ -1,5 +1,4 @@
-Årsmøte april 2014
-==================
+# Årsmøte april 2014
 
 Dokumentene i listen under inneholder informasjon om årsmøtet den 28. april 2021.
 
@@ -24,4 +23,3 @@ Dokumentene i listen under inneholder informasjon om årsmøtet den 28. april 20
 [Innkalling med vedlegg som én fil](aarsmoetedokKomplett2014.pdf)
 
 [Protokoll](ProtokollAarsmote2014.pdf)
-

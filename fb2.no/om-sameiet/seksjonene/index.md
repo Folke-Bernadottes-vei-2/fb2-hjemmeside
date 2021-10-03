@@ -1,12 +1,10 @@
-*Innholdet i tabellen under er noe utdatert. Dette vil bli fikset. Ta [kontakt med styret](/kontakt/) dersom du har spørsmål angående dette.*
+_Innholdet i tabellen under er noe utdatert. Dette vil bli fikset. Ta [kontakt med styret](/styret/) dersom du har spørsmål angående dette._
 
-Seksjonene
-==========
+# Seksjonene
 
-Oversikt
---------
+## Oversikt
 
-Oversikt over alle seksjoner i Sameiet:
+Oversikt over alle seksjoner i sameiet:
 
 <table>
 <tr><td class="a">Leilighetsnummer</td><td class="b">Seksjonsnummer</td><td class="a">Totalbrøk</td><td class="b">Kjellerbod</td></tr>
@@ -77,7 +75,6 @@ Oversikt over alle seksjoner i Sameiet:
 <tr><td class="b">9006</td><td class="a">64</td><td class="b">28</td><td class="a">82</td></tr>
 </table>
 
-Plantegninger
--------------
+## Plantegninger
 
 Se [vedlegget](fb2Plantegninger.pdf) (8.1 MB).

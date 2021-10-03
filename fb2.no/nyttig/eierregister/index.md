@@ -1,8 +1,6 @@
-Eierregister
-============
+# Eierregister
 
-Eier- og beboerregister
------------------------
+## Eier- og beboerregister
 
 Styret skal til enhver tid holdes oppdatert med korrekt informasjon om eiere og leietagere i Sameiet. Alle eiere må sørge for at styret har følgende informasjon:
 

@@ -1,31 +1,26 @@
-Generell info
-=============
+# Generell info
 
-Fakta om Sameiet Folke Bernadottesvei 2, forkortet fb2
-------------------------------------------------------
+## Fakta om Sameiet Folke Bernadottesvei 2, forkortet fb2
 
-- Øverste organ er sameiermøtet som holdes en gang hvert år, i april.
+- Øverste organ er sameiermøtet som holdes en gang i april hvert år.
 - Styret består av styreleder, to styremedlemmer og to varamedlemmer ([se informasjon om styret](/styret/)).
-- Se egen side for kontaktinformasjon.
+- Se egen side for [kontaktinformasjon](/kontakt/).
 
 Blokken var ferdigbygd i 1962. Fram til 2003 ble blokka drevet av en stiftelse, med utleieleiligheter fortrinnsvis tildelt funksjonshemmede. NHF Oslo vedtok da å oppløse stiftelsen og seksjonere blokka. Sameiet ble formelt stiftet i desember 2004.
 
-Forretningsfører
-----------------
+## Forretningsfører
 
 Kontakt forretningsfører, [Sandberg Regnskap AS](https://www.sandbergregnskap.no/) for spørsmål om husleie og regnskap.
 
 Kontaktperson: [Cathrine Sandberg](https://www.sandbergregnskap.no/kontakt/), telefon 466 80 778.
 
-Revisor
--------
+## Revisor
 
 Nitschke AS.
 
 Kontaktperson: Morten Hurum, telefon 67 10 77 18.
 
-Generell informasjon
---------------------
+## Generell informasjon
 
 <table>
 <tr><td class="a">Navn:</td><td class="b">Sameiet Folke Bernadottesvei 2</td></tr>
@@ -42,8 +37,7 @@ Generell informasjon
 <tr><td class="a">Fellesvarmtvann:</td><td class="b">Ja</td></tr>
 </table>
 
-Forsikring
-----------
+## Forsikring
 
 <table>
 <tr><td class="b">Navn:</td><td class="a">If forsikring</td></tr>
@@ -52,8 +46,7 @@ Forsikring
 
 Kontaktinformasjon finnes på https://www.if.no/bedrift/kundeservice.
 
-Samarbeidspartnere
-------------------
+## Samarbeidspartnere
 
 - ISS Skadedyrkontroll / Anticimex
 - ISS Snømåking/strøing
@@ -66,7 +59,6 @@ Samarbeidspartnere
 - Electrolux - vaskemaskiner og tørketrommel - v/Bjørn Kåsine.
 - KABA Møller Undall - dørtelefoner
 
-Reklame foran dører og i postkasser med forbehold
--------------------------------------------------
+## Reklame foran dører og i postkasser med forbehold
 
 Merk at det er strengt forbudt å legge ut reklame foran dører, i postkasser til personer med forbehold, i fellesarealer eller andre steder. Utplassert reklame vil fjernes, og de ansvarlige vil bli fakturert for rydding og bortkjøring.

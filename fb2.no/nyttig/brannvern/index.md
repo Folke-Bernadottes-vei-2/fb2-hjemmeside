@@ -1,15 +1,13 @@
-Brannvern
-=========
+# Brannvern
 
-Akutt
------
+## Akutt
 
-Om det brenner se [denne siden](/akkutt/).
+Om det brenner se [denne siden](/akutt/).
 
-Utstyr leiligheter
-------------------
+## Utstyr leiligheter
 
 I alle leiligheter skal der være utstyrt
+
 - håndslukkeapparat
 - godkjente røykvarsler(e)
 - sentralkoblet brannsensor(er)
@@ -20,18 +18,15 @@ For mer informasjon om krav til din bolig se [Brann- og redningsetaten sine side
 
 NB: Se lenger ned på siden for informasjon om vår årlige brannkontrollsavtale.
 
-Utstyr fellesarealer
---------------------
+## Utstyr fellesarealer
 
 Det er montert brannsensorer i fellesarealene til sameiet, tilkoblet brannsentralen som er montert rett innenfor inngangsdørene. Sameiet har ansvar for dette utstyret. [Ta kontakt med styret](/kontakt/) hvis det er oppdaget feil eller mangler på brannvernutstyret i fellesområder.
 
-Rømningsveier
--------------
+## Rømningsveier
 
 Rømningsveiene skal til enhver tid være ryddige og fri for hindringer. Brukerne har ansvar for å holde rømningsveiene ryddige, og ikke hindre framkommelighet for brannvesenet eller andre redningsbiler.
 
-Branninstruks
--------------
+## Branninstruks
 
 ### Alltid
 
@@ -43,16 +38,16 @@ Branninstruks
 
 ### Ved brann
 
-- *Varsle*: Ring Brannvesen på nødnummer 110. Oppgi eget navn, adressse, telefonnummer, leilighetsnummer og etasjen du bor i. Oppgi hvor i leiligheten det brenner, og hva som brenner.
-- *Redde*: Bistå med evakuering ved brann.
-- *Slukke*: Prøv å begrense brannen ved å lukke alle dører og vinduer. Prøv å slukke brannen med brannslukningsapparat/håndlsange.
+- _Varsle_: Ring Brannvesen på nødnummer 110. Oppgi eget navn, adressse, telefonnummer, leilighetsnummer og etasjen du bor i. Oppgi hvor i leiligheten det brenner, og hva som brenner.
+- _Redde_: Bistå med evakuering ved brann.
+- _Slukke_: Prøv å begrense brannen ved å lukke alle dører og vinduer. Prøv å slukke brannen med brannslukningsapparat/håndlsange.
 - Entrédøren til leiligheten **må** holdes lukket dersom det brenner i leiligheten. I tillegg til balkongdør og vinduer. Pass på at entrédøren er lukket når du forlater leiligheten.
 
 ### Ved evakuering
 
 - Gå ut av leiligheten, og hvis mulig gå ned trappen, og ut av blokken. **Heisen må ikke brukes ved brann**.
 - Hvis det ikke er mulig å komme ut av leiligheten, gå ut på balkongen, vent på brannvesenet.
-- **Entredøren til leiligheten MÅ holdes lukket**.
+- **Entrédøren til leiligheten MÅ holdes lukket**.
 - Dersom det er mulig, varsle naboene om brannen.
 - Enhver beboer plikter å bidra til å forebygge brann.
 - Fellesarealer, som ganger og trappeoppgang skal til enhver tid holdes ryddig og ha fri passasje.
@@ -63,17 +58,14 @@ Møteplassene M1 (rød markør, ved falggstangen) og M2 (blå markør, på andre
 
 ![](moteplasser.png)
 
-Brannsentralen varslingsanlegg
-------------------------------
+## Brannsentralen varslingsanlegg
 
-Brannvarslingssentralen i Sameiet opereres av [Styret](/styret). Dersom ingen av styret er tilgjengelig, slå av alarmen og send en melding. Nøyaktige instruksjoner bør legges ut her snart.
+Brannvarslingssentralen i sameiet opereres av [styret](/styret). Dersom ingen i styret er tilgjengelig, slå av alarmen og send en melding. Nøyaktige instruksjoner bør legges ut her snart.
 
-Deaktivering av alarm
----------------------
+## Deaktivering av alarm
 
-Man må ikke deaktivere alarmen om man ikke er 100% sikker på at det ikke brenner.
+Man må ikke deaktivere alarmen om man ikke er 100 % sikker på at det ikke brenner.
 
 Dersom alarmen går, oppsøk en sentral for å finne ut hvor det brenner. Dersom det er brann, ring brannvesenet. Ikke slå av alarmen før det er bekreftet at brannen er slukket.
 
-Hvis alarmen var utløst av stekos, og faren er over, slå av alarmen og send en melding om hva som har skjedd til [Styret](/styret/).
-
+Hvis alarmen var utløst av stekos, og faren er over, slå av alarmen og send en melding om hva som har skjedd til [styret](/styret/).

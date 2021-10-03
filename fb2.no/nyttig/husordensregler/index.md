@@ -1,99 +1,79 @@
-Husordensregler
-===============
+# Husordensregler
 
 Alle beboere i sameiet plikter å gjøre seg kjent med disse reglene.
 
-Avfall
-------
+## Avfall
 
 [Regler for søppel og avfall](/nyttig/soppel/).
 
-Balkonger
----------
+## Balkonger
 
 [Regler for balkongene](/nyttig/balkonger/).
 
-Brann
------
+## Brann
 
 [Brannforskriftene for blokka](/nyttig/brannvern/).
 
-Dugnad
-------
+## Dugnad
 
 [Regler for dugnad](/nyttig/dugnad/).
 
-Eierskifte
-----------
+## Eierskifte
 
 [Regler for eierskifte](/nyttig/eierskifte/).
 
-Erstatningsansvar
------------------
+## Erstatningsansvar
 
 [Regler for erstatningsansvar](/nyttig/erstatningsansvar/).
 
-Heis
-----
+## Heis
 
 Se [reglene om heisbruk](/nyttig/heis/).
 
-Husdyr
-------
+## Husdyr
 
 [Regler for dyrehold](/nyttig/dyrehold/).
 
-Lufting
--------
+## Lufting
 
 Lufting av leilighet må ikke skje gjennom fellesgang.
 
-Oppbevaring
------------
+## Oppbevaring
 
 [Regler for fellesarealer](/nyttig/fellesarealer/).
 
-Oppussing
----------
+## Oppussing
 
 [Regler for oppussing og vedlikehold](/nyttig/oppussing/).
 
-Parkering
----------
+## Parkering
 
 [Regler for parkering](/nyttig/parkering/).
 
-Ro
----
+## Ro
 
 [Regler om ro](/nyttig/ro/) i blokken.
 
-Skilt
------
+## Skilt
 
 [Regler for navneskilt](/nyttig/skilt/).
 
-Sykler
-------
+## Sykler
 
 [Regler for sykler](/nyttig/sykler/).
 
-Utearealer
-----------
+## Utearealer
 
 [Regler for felles- og utearealer](/nyttig/fellesarealer/).
 
-Utleie
-------
+## Utleie
 
 [Regler for utleie](/nyttig/utleie/).
 
-Vaskeri
--------
+## Vaskeri
 
 [Regler for vaskeriet](/nyttig/vaskeri/).
 
-Andre regler
-------------
+## Andre regler
 
 Beboere og eiere bes også gjøre seg kjent med andre regler, som finnes på sameiet sin hjemmeside.
