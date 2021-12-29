@@ -2,7 +2,7 @@
 
 ## Vaskekort
 
-Nytt kort koster 50 kroner. [Ta kontakt med styret](/styret/) for kjøp av kort.
+Nytt kort koster 100 kroner. [Ta kontakt med styret](/styret/) for kjøp av kort.
 
 For påfyll av saldo på kortet, følg instruksjoner på oppslaget inne på vaskeriet.
 
