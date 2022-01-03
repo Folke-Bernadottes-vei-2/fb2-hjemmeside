@@ -26,8 +26,8 @@ For kontaktinformasjon om tilknyttede håndverkere, gå til [håndverksiden](/ny
 
 ## Forretningsfører og revisor
 
-For kontaktinformasjon til vår forretningsfører og revisor, [gå til infosiden om sameiet](/sameiet/).
+For kontaktinformasjon til vår forretningsfører og revisor, [gå til infosiden om sameiet](/om-sameiet/generell-info/).
 
 ## Annet
 
-For annen kontaktinformasjon [gå til akuttsiden](/akkutt/).
+For annen kontaktinformasjon [gå til akuttsiden](/akutt/).
