@@ -2,7 +2,7 @@
 
 ## Brann
 
-Brannvesenet nås på telefonnummer 110
+Brannvesenet nås på telefonnummer: 110
 
 For mer informasjon gå til <a href="/nyttig/brannvern/">denne siden</a>.
 
@@ -18,16 +18,20 @@ Ambulanse nås på telefonnummer: 113
 
 <table>
 	<tr>
-		<td class="a">Legevakt:</td>
-          <td class="b">22 93 22 93</td>
+		<td class="a">Oslo Legevakt, Storgata 40:</td>
+    	<td class="b">116 117</td>
 	</tr>
 	<tr>
-		<td class="b">Apotek1, legevakten (døgnåpent):</td>
-		<td class="a">22 98 87 20</td>
+		<td class="b">Sentrum Tannlegevakt, Hausmannsgate 10:</td>
+        <td class="a">222 01 010</td>
 	</tr>
 	<tr>
-		<td class="a">Tannlegevakten:</td>
-          <td class="b">22 56 40 00 / 22 67 30 00</td>
+		<td class="a">Evidensia Oslo Dyresykehus, Ensjøveien 14:</td>
+        <td class="b">226 83 500</td>
+	</tr>
+	<tr>
+		<td class="b">Apotek 1 Legevakten (døgnåpent), Storgata 40:</td>
+		<td class="a">229 88 720</td>
 	</tr>
 </table>
 
@@ -49,7 +53,7 @@ Er ikke problemet akutt kan [våre egne tilknyttede rørleggere](nyttig/handverk
 I akutte tilfeller [informér styret](/styret/) så raskt som mulig.
 Se også [denne siden for mer informasjon om lekkasjer](/nyttig/lekkasjer/).
 
-## Vann- og Avløpsetaten
+## Vann- og avløpsetaten
 
 Er det problemer med drikkevann eller lignende, [kontakt Vann- og avløpsetaten](https://www.oslo.kommune.no/vann-og-avlop/).
 

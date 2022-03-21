@@ -5,7 +5,7 @@ Nedenfor er det listet opp håndverkere som kjenner sameiet godt. Vi oppfordrer 
 ## Elektriker
 
 <table>
-<tr><td class="a">Mythe’s Installasjon v/Oddbjørn Mythe</td><td class="b">909 43 166</td></tr>
+<tr><td class="a">Mythes Installasjon v/Kenneth Mythe</td><td class="b">909 45 588</td></tr>
 </table>
 
 ## Rørlegger
