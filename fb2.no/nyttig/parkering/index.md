@@ -53,8 +53,11 @@ I utgangspunktet kan en aktør, eier eller leietager, eller seksjon, kun leie é
 
 ### Oppstillingsplasser
 
-Sameiet har 14 biloppstillingsplasser.
-Leiepris pr måned: 350 kr.
+Sameiet har 14 biloppstillingsplasser på parkeringsplassen utenfor blokka.
+Leiepris per måned: 350 kr.
+
+Sameiet har også 6 biloppstillingsplasser i garasjen under Folke Bernadottes vei 4.
+Leiepris per måned: 1250 kr.
 
 ### El-sykkel og rullestolparkering
 
