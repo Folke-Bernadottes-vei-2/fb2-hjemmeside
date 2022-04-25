@@ -9,23 +9,25 @@ Styret kan primært nås på e-post [styret@fb2.no](mailto:styret@fb2.no). Hvis 
 ## Styreleder
 
 <table>
-<tr><td class="b">Navn</td><td class="a">Sondre Bø Kongsgård (leil. 1008)</td></tr>
-<tr><td class="a">Telefon</td><td class="b">902 99 484</td></tr>
-<tr><td class="b">E-post</td><td class="a">sondre@fb2.no</td></tr>
+<tr><td class="a">Navn</td><td class="b">Amund Sigurdssønn Karlsen (leil. 4006)</td></tr>
+<tr><td class="a">E-post</td><td class="b">amund@fb2.no</td></tr>
 </table>
 
 ## Styremedlemmer
 
 <table>
-<tr><td class="a">Navn</td><td class="b">Amund Sigurdssønn Karlsen (leil. 4006)</td></tr>
-<tr><td class="b">Telefon</td><td class="a">924 89 479</td></tr>
-<tr><td class="a">E-post</td><td class="b">amund@fb2.no</td></tr>
+<tr><td class="a">Navn</td><td class="b">Knut Morten Brekke (leil. 7011)</td></tr>
+<tr><td class="a">E-post</td><td class="b">knut@fb2.no</td></tr>
 </table>
 
 <table>
 <tr><td class="b">Navn</td><td class="a">Sigrun Reinhardtsen (leil. 1004)</td></tr>
-<tr><td class="a">Telefon</td><td class="b">991 06 126</td></tr>
 <tr><td class="b">E-post</td><td class="a">sigrun@fb2.no</td></tr>
+</table>
+
+<table>
+<tr><td class="b">Navn</td><td class="a">Sondre Bø Kongsgård (leil. 1008)</td></tr>
+<tr><td class="b">E-post</td><td class="a">sondre@fb2.no</td></tr>
 </table>
 
 ## Varamedlemmer
