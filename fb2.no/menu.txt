@@ -51,7 +51,7 @@ Om sameiet : om-sameiet/
 
 Årsmøter : arsmoter/
 	2022 april &#xb7; Årsmøte : arsmoter/2022-04-arsmote/
-	2021 april &#xb7; Sameiemøte : arsmoter/2021-06-sameiemote/
+	2021 juni &#xb7; Sameiemøte : arsmoter/2021-06-sameiemote/
 	2021 april &#xb7; Årsmøte : arsmoter/2021-04-arsmote/
 	2020 april &#xb7; Årsmøte : arsmoter/2020-04-arsmote/
 	2019 oktober &#xb7; Sameiemøte : arsmoter/2019-10-sameiemote/
