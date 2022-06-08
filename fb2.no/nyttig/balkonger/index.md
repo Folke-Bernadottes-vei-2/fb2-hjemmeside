@@ -26,7 +26,7 @@ Sameiet skal holde en ensartet fasade, og det er derfor klare begrensninger i fo
 
 Det er ikke er lov å montere tørkestativ/liner som medfører at klestørken blir hengende til allmenn beskuelse. Vi kan i denne sammenheng også nevne at det ikke er tillatt å riste klær, matter og lignende på balkongene eller vinduene.
 
-## Balkingkasser
+## Balkongkasser
 
 Det er ikke lov å ha balkongkasse hengende på utsiden av balkongen.
 
@@ -34,7 +34,7 @@ Det er ikke lov å ha balkongkasse hengende på utsiden av balkongen.
 
 Man kan ikke gjennomføre innglassing av egen balkong.
 
-## Fellesbalkinger
+## Fellesbalkonger
 
 Fellesbalkongene skal ikke være lagringsplass for personlige eiendeler. Dører til fellesbalkonger skal til enhver tid holdes lukket, og må ikke settes åpne for lufting uten tilsyn. Dette da de kan bli ødelagte av vær og vind om de blir stående oppe.
 
