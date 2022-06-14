@@ -26,7 +26,7 @@ Følgende spesifikasjoner gjelder for våre entrédører:
 
 ## Ventilasjon
 
-Det er viktig at ventilasjonen blir opprettholdt som tidligere. Ingen ventilasjons­luker må stenges eller monteres på en måte som fører til reduser luftinntak. Det SKAL monteres skikkelig kullfilter på kjøkkenvifter, og ikke monteres avtrekksvifter som kobles til ventilasjonsanlegget. Ikke monter avtrekksvifter på baderom eller i andre rom i leiligheten. Det er et velfungerende ventilasjonsanlegg i blokken som bl.a. suger ut fuktig luft fra baderommene. Dersom det monteres ekstra avtrekksvifter, fører dette til at trykket i ventilasjonsanlegget faller og utluftingen fra andre leiligheter blir dårligere.
+Det er viktig at ventilasjonen blir opprettholdt som tidligere. Ingen ventilasjons­luker må stenges eller monteres på en måte som fører til reduser luftinntak. Det SKAL monteres skikkelig kullfilter på kjøkkenvifter, og ikke monteres avtrekksvifter som kobles til ventilasjonsanlegget. Ikke monter avtrekksvifter på baderom eller i andre rom i leiligheten. Det er et velfungerende ventilasjonsanlegg i blokken som bl.a. suger ut fuktig luft fra baderommene. Dersom det monteres ekstra avtrekksvifter, fører dette til at matos og fuktig luft presses inn i andre leiligheter. Disse leilighetene får dermed ikke glede av ventilasjonsanlegget.
 
 ## Elektrisk
 
