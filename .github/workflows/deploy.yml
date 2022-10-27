@@ -1,10 +1,11 @@
 name: Deploy to fb2.no
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push for the master branch
   push:
-    branches: [ master ]
+    branches:
+      - master
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -13,7 +14,7 @@ on:
 jobs:
   # This workflow contains a single job called "deploy"
   deploy:
-    name: "Deploy to fb2.no" 
+    name: "Deploy to fb2.no"
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -41,8 +42,6 @@ jobs:
 
       - name: Pull master
         run: ssh fb2 'cd fb2-hjemmeside && git pull'
-        
+
       - name: Publish fb2-hjemmeside
         run: ssh fb2 'sh publish.sh'
-          
-
