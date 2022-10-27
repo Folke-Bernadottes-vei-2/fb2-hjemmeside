@@ -1,8 +1,6 @@
 # Søppel
 
-## Generelt
-
-Det skal under ingen omstendighet kastes søppel en annen plass på tomten til FB2 enn angitt i seksjonene under. Det skal heller IKKE settes igjen gjenstander og/eller søppel ved siden av avfallsbrønnene. Regelbrudd vil få konsekvenser - både i form av at man vil bli fakturert for rydding, vasking og bortkjøring i tillegg til at man vil få advarsler fra styret som kan føre til ytterligere konsekvenser. Se [regelbrudd](/nyttig/regelbrudd/) for mer informasjon.
+NB! Det skal under ingen omstendighet kastes søppel en annen plass på tomten til FB2 enn angitt i seksjonene under. Det skal heller IKKE settes igjen gjenstander og/eller søppel ved siden av avfallsbrønnene. Regelbrudd vil få konsekvenser - både i form av at man vil bli fakturert for rydding, vasking og bortkjøring i tillegg til at man vil få advarsler fra styret som kan føre til ytterligere konsekvenser. Se [regelbrudd](/nyttig/regelbrudd/) for mer informasjon.
 
 ## Husholdningsavfall - avfallsbrønner
 
@@ -32,13 +30,13 @@ Gå til [Renovasjons- og gjenvinningsetaten](https://www.oslo.kommune.no/avfall-
 
 _Tømmes annenhver uke_
 
-Dette tømmes i de to brønnene til høyre sett fra inngangen. De er også tydelig merket. For disse brønnene behøver man ikke nøkkelbrikke for å åpne luken.
+Papiravfall kastes i de to brønnene til høyre sett fra inngangen. De er også tydelig merket. For disse brønnene behøver man ikke nøkkelbrikke for å åpne luken.
 
-I disse brønnene kan du kaste aviser, blader, julepapir, reklame, konvolutter, kopipapir, papp og kartonger for juice, melk, refill og frossenmat (fri for matrester). Det har ingen betydning om papiret er belagt med aluminiumsfolie, plast eller har plastkork. Dette skilles maskinelt.
+Papiravfall inkluderer aviser, blader, julepapir, reklame, konvolutter, kopipapir, papp og kartonger for juice, melk, refill og frossenmat (fri for matrester). Det har ingen betydning om papiret er belagt med aluminiumsfolie, plast eller har plastkork. Dette skilles maskinelt.
 
 ## Glass og metallemballasje - Meny
 
-Utenfor Menybutikken, vår nærmeste nabo, står det utplassert en container for gjennvinning av glass og metall. Kast rengjort glass og metall i disse beholderne, ikke keramikk.
+Utenfor Menybutikken, vår nærmeste nabo, står det utplassert en container for gjenvinning av glass og metall. Kast rengjort glass og metall i disse beholderne, ikke keramikk.
 
 ## Klær - vest for Kringsjå T
 
