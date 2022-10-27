@@ -1,4 +1,4 @@
-# Søppel
+# Avfall
 
 NB! Det skal under ingen omstendighet kastes søppel en annen plass på tomten til FB2 enn angitt i seksjonene under. Det skal heller IKKE settes igjen gjenstander og/eller søppel ved siden av avfallsbrønnene. Regelbrudd vil få konsekvenser - både i form av at man vil bli fakturert for rydding, vasking og bortkjøring i tillegg til at man vil få advarsler fra styret som kan føre til ytterligere konsekvenser. Se [regelbrudd](/nyttig/regelbrudd/) for mer informasjon.
 

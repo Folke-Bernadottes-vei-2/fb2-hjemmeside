@@ -41,7 +41,7 @@ jobs:
           SSH_HOST: ${{ secrets.SSH_HOST }}
 
       - name: Pull master
-        run: ssh fb2 'cd fb2-hjemmeside && git pull'
+        run: ssh fb2 'cd fb2-hjemmeside && git checkout master && git pull'
 
       - name: Publish fb2-hjemmeside
         run: ssh fb2 'sh publish.sh'

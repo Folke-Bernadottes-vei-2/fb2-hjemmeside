@@ -10,6 +10,7 @@ Nyheter : nyheter/
 
 Nyttig informasjon : nyttig/
 	Ansvar : nyttig/ansvar/
+	Avfall : nyttig/avfall/
 	Balkonger : nyttig/balkonger/
 	Bolignummer:nyttig/bolignummer/
 	Brannvern : nyttig/brannvern/
@@ -38,7 +39,6 @@ Nyttig informasjon : nyttig/
 	Ro : nyttig/ro/
 	Skilt : nyttig/skilt/
 	Sykkel : nyttig/sykkel/
-	Søppel : nyttig/soppel/
 	TV og Internett : nyttig/tv-og-internett/
 	Utleie : nyttig/utleie/
 	Vaskeri : nyttig/vaskeri/
