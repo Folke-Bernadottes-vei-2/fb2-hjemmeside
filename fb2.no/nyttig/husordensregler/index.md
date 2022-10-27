@@ -4,7 +4,7 @@ Alle beboere i sameiet plikter å gjøre seg kjent med disse reglene.
 
 ## Avfall
 
-[Regler for søppel og avfall](/nyttig/soppel/).
+[Regler for søppel og avfall](/nyttig/avfall/).
 
 ## Balkonger
 
