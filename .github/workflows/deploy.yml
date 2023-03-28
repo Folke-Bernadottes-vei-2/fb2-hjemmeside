@@ -2,10 +2,10 @@ name: Deploy to fb2.no
 
 # Controls when the action will run.
 on:
-  # Triggers the workflow on push for the master branch
+  # Triggers the workflow on push for the main branch
   push:
     branches:
-      - master
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,8 +40,8 @@ jobs:
           SSH_KEY: ${{ secrets.SSH_KEY }}
           SSH_HOST: ${{ secrets.SSH_HOST }}
 
-      - name: Pull master
-        run: ssh fb2 'cd fb2-hjemmeside && git checkout master && git pull'
+      - name: Pull main
+        run: ssh fb2 'cd fb2-hjemmeside && git checkout main && git pull'
 
       - name: Publish fb2-hjemmeside
         run: ssh fb2 'sh publish.sh'
