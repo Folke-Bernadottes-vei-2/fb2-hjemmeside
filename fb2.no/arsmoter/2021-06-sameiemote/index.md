@@ -1,4 +1,4 @@
-# Ordinært sameiemøte onsdag 2. juni 2021
+# Ekstraordinært sameiemøte onsdag 2. juni 2021
 
 Onsdag 2. juni 2021 ble det avholdt et ekstraordinært sameiemøte på Zoom. Dokumenter for møtet finner du under:
 

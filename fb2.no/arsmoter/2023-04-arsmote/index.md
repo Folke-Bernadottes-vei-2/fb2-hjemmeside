@@ -1,3 +1,6 @@
 # Ordinært sameiemøte mandag 24. april 2023
 
-Mandag 24. april 2023 avholdes ordinært sameiemøte på Zoom. Møtedokumenter blir senere lagt ut på denne siden.
+Mandag 24. april 2023 ble det avholdt et ordinært sameiemøte på Zoom. Dokumenter for møtet finner du under:
+
+- [Innkalling](Innkalling_FB2_2023-04-24.pdf)
+- [Referat](Protokoll_FB2_2023-04-24.pdf)
