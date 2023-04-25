@@ -1,4 +1,4 @@
-# Ordinært sameiemøte mandag 6. juni 2022
+# Ekstraordinært sameiemøte mandag 6. juni 2022
 
 Mandag 6. juni 2022 ble det avholdt et ekstraordinært sameiemøte på Zoom. Dokumenter for møtet finner du under:
 
