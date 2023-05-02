@@ -20,10 +20,10 @@ Følgende avfall må ikke kastes i disse containerene (kilde: [Norsk Gjenvinning
 
 - EE-avfall - Alle typer elektrisk og elektronisk utstyr som kan tilkobles strømnettet eller batterier. F.eks. datautstyr, brunevarer, hvitevarer, lyskilder og elektrisk verktøy.
 - Radioaktivt avfall - Radioaktive stoffer som er merket med radioaktivt symbol.
-- Eksplosivt avfall - Ammunisjon, dynamitt,fenghetter,trykkbeholdere, brannslukkere,festfyrverkeri og lignende.
+- Eksplosivt avfall - Ammunisjon, dynamitt, fenghetter, trykkbeholdere, brannslukkere, festfyrverkeri og lignende.
 - Smittefarlig avfall - Sprøytespisser og kanyler, blodposer og laboratorieavfall, brukte bandasjer, bleier og lignende.
 - Våtorganisk avfall - Matavfall og frityrolje.
-- Farlig avfall - Maling, løsemidler, spilloljer, batterier, spraybokser, lim, asbest,isolerglass,lysstoffrør,rengjøringsmidler,impregnert trevirke og lignende.
+- Farlig avfall - Maling, løsemidler, spilloljer, batterier, spraybokser, lim, asbest, isolerglass, lysstoffrør, rengjøringsmidler, impregnert trevirke og lignende.
 - Avløpsslam.
 - Flytende avfall.
 
