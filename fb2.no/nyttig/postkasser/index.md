@@ -10,4 +10,4 @@ For informasjon om nøkler til postkassene, [gå til denne siden](/nyttig/nokler
 
 ## Postkasseskilt
 
-For informasjon om skilt til postkassene, [gå til denne siden](/nyttig/nokler/).
+For informasjon om skilt til postkassene, [gå til denne siden](/nyttig/skilt/).
