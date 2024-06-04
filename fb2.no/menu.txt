@@ -50,6 +50,7 @@ Om sameiet : om-sameiet/
 	Seksjonene : om-sameiet/seksjonene/
 
 Årsmøter : arsmoter/
+	2024 juni &#xb7; Sameiemøte : arsmoter/2024-06-sameiemote/
 	2024 april &#xb7; Årsmøte : arsmoter/2024-04-arsmote/
 	2023 april &#xb7; Årsmøte : arsmoter/2023-04-arsmote/
 	2022 september &#xb7; Sameiemøte : arsmoter/2022-09-sameiemote/
