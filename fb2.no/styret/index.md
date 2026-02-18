@@ -16,8 +16,8 @@ Styret kan primært nås på e-post [styret@fb2.no](mailto:styret@fb2.no). Hvis 
 ## Styremedlemmer
 
 <table>
-<tr><td class="b">Navn</td><td class="a">Jenny Marie Myhre</td></tr>
-<tr><td class="a">E-post</td><td class="b">jenny@fb2.no</td></tr>
+<tr><td class="b">Navn</td><td class="a">Elisabeth Skoglund</td></tr>
+<tr><td class="a">E-post</td><td class="b">elisabeth@fb2.no</td></tr>
 </table>
 
 <table>
@@ -26,7 +26,5 @@ Styret kan primært nås på e-post [styret@fb2.no](mailto:styret@fb2.no). Hvis 
 </table>
 
 ## Varamedlemmer
-
-Elisabeth Skoglund
 
 Pål Hermunn Johansen
