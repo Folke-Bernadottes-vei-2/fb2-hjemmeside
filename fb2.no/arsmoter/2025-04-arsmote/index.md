@@ -1,4 +1,4 @@
-# Ordinært sameiemøte tirsdag 2. april 2024
+# Ordinært sameiemøte tirsdag 22. april 2025
 
 Tirsdag 22. april 2025 ble det avholdt et ordinært sameiemøte på Google Meet. Dokumenter for møtet finner du under:
 
