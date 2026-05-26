@@ -21,10 +21,12 @@ Styret kan primært nås på e-post [styret@fb2.no](mailto:styret@fb2.no). Hvis 
 </table>
 
 <table>
-<tr><td class="b">Navn</td><td class="a">Andrii Bezkorovainyi</td></tr>
-<tr><td class="a">E-post</td><td class="b">andrii@fb2.no</td></tr>
+<tr><td class="b">Navn</td><td class="a">Fjodor van Steenis</td></tr>
+<tr><td class="a">E-post</td><td class="b">fjodor@fb2.no</td></tr>
 </table>
 
 ## Varamedlemmer
+
+Aisa Fredh
 
 Pål Hermunn Johansen
