@@ -12,21 +12,6 @@ Minimum en person fra alle seksjoner oppfordres til å være med. Dersom en bebo
 
 Det vil bli servert enkel mat og drikke under dugnaden.
 
-## Container
-
-Det vil bli bestilt container til eget avfall, for begge dugnadene. Disse kan benyttes av beboere for å kaste større avfall.
-
-Følgende avfall må ikke kastes i disse containerene (kilde: [Norsk Gjenvinning](www.norskgjenvinning.no)):
-
-- EE-avfall - Alle typer elektrisk og elektronisk utstyr som kan tilkobles strømnettet eller batterier. F.eks. datautstyr, brunevarer, hvitevarer, lyskilder og elektrisk verktøy.
-- Radioaktivt avfall - Radioaktive stoffer som er merket med radioaktivt symbol.
-- Eksplosivt avfall - Ammunisjon, dynamitt, fenghetter, trykkbeholdere, brannslukkere, festfyrverkeri og lignende.
-- Smittefarlig avfall - Sprøytespisser og kanyler, blodposer og laboratorieavfall, brukte bandasjer, bleier og lignende.
-- Våtorganisk avfall - Matavfall og frityrolje.
-- Farlig avfall - Maling, løsemidler, spilloljer, batterier, spraybokser, lim, asbest, isolerglass, lysstoffrør, rengjøringsmidler, impregnert trevirke og lignende.
-- Avløpsslam.
-- Flytende avfall.
-
 ## Oppgaver vår- og høstdugnad
 
 - Kaste søppel fra kjeller, søppelhus og øverste garasje.
